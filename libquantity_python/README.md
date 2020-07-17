@@ -12,6 +12,6 @@ This is a Python-wrapper for libquantity.
 
 # Setup
 
-Download the shared library `libquantity-x86_64-linux-gnu.so` from [rtrollebo.github.io/reposotories](rtrollebo.github.io/reposotories), into `./lib/`. 
+Download the shared library `libquantity-x86_64-linux-gnu.so` from [rtrollebo.github.io/reposotories](http://rtrollebo.github.io/repositories), into `./lib/`. 
 
 Run `bash runtests.sh` to ensure the project is setup correctly. 

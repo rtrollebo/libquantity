@@ -1,0 +1,1 @@
+LIBRARY_PATH_DEFAULT = "./lib/libquantity-x86_64-linux-gnu.so"
